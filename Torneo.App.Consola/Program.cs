@@ -60,7 +60,7 @@ namespace Torneo.App.Consola
                     case 7:
                         AddEstadio();
                         break;
-                     case 8:
+                    case 8:
                         AddPartido();
                         break;
                     case 9:
@@ -84,9 +84,9 @@ namespace Torneo.App.Consola
                     case 15:
                         GetAllEstadios();
                         break;
-/*                      case 16:
+                    case 16:
                         GetAllPartidos();
-                        break; */
+                        break;
                 }
             } while (opcion != 0);
         }
@@ -156,7 +156,7 @@ namespace Torneo.App.Consola
             int idEquipo = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Escriba el id de la posicion");
             int idPosicion = Int32.Parse(Console.ReadLine());
-            
+
             var jugador = new Jugador
             {
                 Nombre = nombre,
@@ -206,22 +206,6 @@ namespace Torneo.App.Consola
 
         public static void AddPartido()
         {
-
-            /* Console.WriteLine("Escriba el año del partido");
-            int year = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Escriba el mes del partido");
-            int mes = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Escriba el dia del partido");
-            int dia = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Escriba la hora del partido");
-            int hora = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Escriba el munito del partido");
-            int minuto = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Escriba el segundo del partido");
-            int segundo = Int32.Parse(Console.ReadLine());
-            DateTime fechaHora = new DateTime(year, mes, dia, hora, minuto, segundo); */
-            //string fecha = "2022/12/12 14:00:00";
-            //DateTime fechaHora = DateTime.Parse(fecha);
             Console.WriteLine("Escriba la fecha y hora del partido, en formato (AAAA/MM/DD HH:MM:SS)");
             DateTime fechaHora = DateTime.Parse(Console.ReadLine());
 
@@ -234,7 +218,7 @@ namespace Torneo.App.Consola
             Console.WriteLine("Escriba el id del estadio");
             int idEstadio = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine("Escriba el id del partido");
+            Console.WriteLine("Escriba el id del arbitro");
             int idArbitro = Int32.Parse(Console.ReadLine());
 
             var partido = new Partido
@@ -284,7 +268,7 @@ namespace Torneo.App.Consola
         {
             foreach (var jugador in _repoJugador.GetAllJugadores())
             {
-                Console.WriteLine(jugador.Id + " " + jugador.Nombre + " " + jugador.Numero + " " + jugador.Equipo.Nombre + " " + jugador.Posicion.Nombre );
+                Console.WriteLine(jugador.Id + " " + jugador.Nombre + " " + jugador.Numero + " " + jugador.Equipo.Nombre + " " + jugador.Posicion.Nombre);
             }
         }
 
@@ -292,7 +276,7 @@ namespace Torneo.App.Consola
         {
             foreach (var arbitro in _repoArbitro.GetAllArbitros())
             {
-                Console.WriteLine(arbitro.Id + " " + arbitro.Nombre + " " + arbitro.Documento + " " + arbitro.Telefono +" "+ arbitro.Colegio);
+                Console.WriteLine(arbitro.Id + " " + arbitro.Nombre + " " + arbitro.Documento + " " + arbitro.Telefono + " " + arbitro.Colegio);
             }
         }
 
@@ -300,17 +284,16 @@ namespace Torneo.App.Consola
         {
             foreach (var estadio in _repoEstadio.GetAllEstadios())
             {
-                Console.WriteLine(estadio.Id + " " + estadio.Nombre + " " + estadio.Direccion +" "+ estadio.Municipio.Nombre);
+                Console.WriteLine(estadio.Id + " " + estadio.Nombre + " " + estadio.Direccion + " " + estadio.Municipio.Nombre);
             }
         }
-
-/*         private static void GetAllPartidos()
+        private static void GetAllPartidos()
         {
             foreach (var partido in _repoPartido.GetAllPartidos())
             {
-                Console.WriteLine(partido.Id + " " + partido.FechaHora + " " + partido.Local.Nombre +" "+ partido.MarcadorLocal +" "+ 
-                +" "+ partido.Visitante.Nombre +" "+ partido.MarcadorVisitante +" "+ partido.Arbitro.Nombre +" "+ partido.Estadio.Nombre);
+                Console.WriteLine(partido.Id + " " + partido.FechaHora + " " + partido.Local.Nombre + " " + partido.MarcadorLocal + " " +
+              partido.Visitante.Nombre + " " + partido.MarcadorVisitante + " " + partido.Arbitro.Nombre + " " + partido.Estadio.Nombre);
             }
-        } */
+        }
     }
 }

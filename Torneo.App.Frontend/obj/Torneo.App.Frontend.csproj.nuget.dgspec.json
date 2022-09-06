@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AppTorneoG2\\Torneo\\Torneo.App\\Torneo.App.Frontend\\Torneo.App.Frontend.csproj": {}
+    "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Frontend\\Torneo.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\AppTorneoG2\\Torneo\\Torneo.App\\Torneo.App.Frontend\\Torneo.App.Frontend.csproj": {
+    "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Frontend\\Torneo.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AppTorneoG2\\Torneo\\Torneo.App\\Torneo.App.Frontend\\Torneo.App.Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Frontend\\Torneo.App.Frontend.csproj",
         "projectName": "Torneo.App.Frontend",
-        "projectPath": "C:\\AppTorneoG2\\Torneo\\Torneo.App\\Torneo.App.Frontend\\Torneo.App.Frontend.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Frontend\\Torneo.App.Frontend.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\AppTorneoG2\\Torneo\\Torneo.App\\Torneo.App.Frontend\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"

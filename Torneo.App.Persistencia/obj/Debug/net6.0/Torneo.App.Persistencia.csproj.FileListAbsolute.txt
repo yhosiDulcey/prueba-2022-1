@@ -32,3 +32,37 @@ C:\AppTorneoG2\Torneo\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo
 C:\AppTorneoG2\Torneo\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.csproj.CopyComplete
 C:\AppTorneoG2\Torneo\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.genruntimeconfig.cache
 C:\AppTorneoG2\Torneo\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\ref\Torneo.App.Persistencia.dll
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.deps.json
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.runtimeconfig.json
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.dll
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.pdb
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Dominio.dll
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Dominio.pdb
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.dll
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\obj\Debug\net6.0\refint\Torneo.App.Persistencia.dll
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.pdb
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.genruntimeconfig.cache
+C:\Users\USUARIO\Downloads\New folder\prueba-2022\Torneo.App.Persistencia\obj\Debug\net6.0\ref\Torneo.App.Persistencia.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Persistencia.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Dominio.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\bin\Debug\net6.0\Torneo.App.Dominio.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\refint\Torneo.App.Persistencia.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\Torneo.App.Persistencia.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Persistencia\obj\Debug\net6.0\ref\Torneo.App.Persistencia.dll
