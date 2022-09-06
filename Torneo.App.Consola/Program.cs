@@ -210,6 +210,7 @@ namespace Torneo.App.Consola
             DateTime fechaHora = DateTime.Parse(Console.ReadLine());
 
             Console.WriteLine("Escriba el id del equipo local");
+            GetAllEquipos();
             int local = Int32.Parse(Console.ReadLine());
 
             Console.WriteLine("Escriba el id del equipo visitante");
@@ -291,6 +292,7 @@ namespace Torneo.App.Consola
         {
             foreach (var partido in _repoPartido.GetAllPartidos())
             {
+                Console.WriteLine();
                 Console.WriteLine(partido.Id + " " + partido.FechaHora + " " + partido.Local.Nombre + " " + partido.MarcadorLocal + " " +
               partido.Visitante.Nombre + " " + partido.MarcadorVisitante + " " + partido.Arbitro.Nombre + " " + partido.Estadio.Nombre);
             }
