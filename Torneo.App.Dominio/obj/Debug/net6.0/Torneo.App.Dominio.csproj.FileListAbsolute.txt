@@ -46,3 +46,15 @@ C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Domi
 C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\refint\Torneo.App.Dominio.dll
 C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.pdb
 C:\Users\USUARIO\OneDrive\Escritorio\Ciclo 3-Proyecto\Torneo.App\Torneo.App.Dominio\obj\Debug\net6.0\ref\Torneo.App.Dominio.dll
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\bin\Debug\net6.0\Torneo.App.Dominio.deps.json
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\bin\Debug\net6.0\Torneo.App.Dominio.dll
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\bin\Debug\net6.0\Torneo.App.Dominio.pdb
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.csproj.AssemblyReference.cache
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.AssemblyInfoInputs.cache
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.AssemblyInfo.cs
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.csproj.CoreCompileInputs.cache
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.dll
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\obj\Debug\net6.0\refint\Torneo.App.Dominio.dll
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\obj\Debug\net6.0\Torneo.App.Dominio.pdb
+C:\TorneoG24\prueba-2022\Torneo.App.Dominio\obj\Debug\net6.0\ref\Torneo.App.Dominio.dll

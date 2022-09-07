@@ -1951,11 +1951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
+      "projectUniqueName": "C:\\TorneoG24\\prueba-2022\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
       "projectName": "Torneo.App.Consola",
-      "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
+      "projectPath": "C:\\TorneoG24\\prueba-2022\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Consola\\obj\\",
+      "outputPath": "C:\\TorneoG24\\prueba-2022\\Torneo.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1970,11 +1970,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj"
+            "C:\\TorneoG24\\prueba-2022\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj": {
+              "projectPath": "C:\\TorneoG24\\prueba-2022\\Torneo.App.Dominio\\Torneo.App.Dominio.csproj"
             },
-            "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj"
+            "C:\\TorneoG24\\prueba-2022\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj": {
+              "projectPath": "C:\\TorneoG24\\prueba-2022\\Torneo.App.Persistencia\\Torneo.App.Persistencia.csproj"
             }
           }
         }

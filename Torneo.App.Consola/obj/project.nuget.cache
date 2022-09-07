@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tjy/DNqAI5SmnG87L0tOFRjVxXicVJaMMAUFYJRw1Yjbt27xclVWK4+5MrWbpjmv+i56uCYkI5LYJic36ClSpQ==",
+  "dgSpecHash": "MBI4wC2IyMy5tyAEIpkc8edjWmTrYA+2Ob6/E32PbtOAqNqBtmlLzUmDCrpve49eYGnOeFbaLo+8NdgyCnwpCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Ciclo 3-Proyecto\\Torneo.App\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
+  "projectFilePath": "C:\\TorneoG24\\prueba-2022\\Torneo.App.Consola\\Torneo.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
