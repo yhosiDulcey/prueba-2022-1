@@ -12,8 +12,8 @@ using Torneo.App.Persistencia;
 namespace Torneo.App.Persistencia.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220907022336_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20220907173549_Entidades")]
+    partial class Entidades
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

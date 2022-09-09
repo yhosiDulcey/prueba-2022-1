@@ -14,7 +14,7 @@ namespace Torneo.App.Persistencia
             equipo.DirectorTecnico = DTEncontrado;
             var equipoInsertado = _dataContext.Equipos.Add(equipo);
             _dataContext.SaveChanges();
-            
+
             return equipoInsertado.Entity;
         }
 
@@ -27,6 +27,16 @@ namespace Torneo.App.Persistencia
                 .ToList();
 
             return equipos;
+        }
+
+        public Equipo GetEquipo(int idEquipo)
+        {
+            var equipoEncontrado = _dataContext.Equipos
+            .Where(e => e.Id == idEquipo)
+            .Include(e => e.Municipio)
+            .Include(e => e.DirectorTecnico)
+            .FirstOrDefault();
+            return equipoEncontrado;
         }
 
 

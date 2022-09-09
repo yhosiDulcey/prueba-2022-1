@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Torneo.App.Persistencia.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class Entidades : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
