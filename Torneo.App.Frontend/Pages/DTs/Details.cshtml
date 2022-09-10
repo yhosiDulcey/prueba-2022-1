@@ -3,3 +3,14 @@
 @{
 }
 <h5 class="display-5">Detalle del Director Técnico</h5>
+<table class="table table-striped">
+    <tr>
+        <th scope="col">Id</th>
+        <td>@Model.directorTecnico.Id</td>
+    </tr>
+    <tr>
+        <th scope="col">Nombre</th>
+        <td>@Model.directorTecnico.Nombre</td>
+    </tr>
+</table>
+<a class="btn btn-primary" asp-page="./Index">Volver</a>
