@@ -6,6 +6,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddSingleton<IRepositorioMunicipio, RepositorioMunicipio>();
 builder.Services.AddSingleton<IRepositorioDT, RepositorioDT>();
 builder.Services.AddSingleton<IRepositorioEquipo, RepositorioEquipo>();
+builder.Services.AddSingleton<IRepositorioEstadio, RepositorioEstadio>();
 
 var app = builder.Build();
 
