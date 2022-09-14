@@ -9,23 +9,22 @@
             <th scope="col">Id</th>
             <th scope="col">Nombre</th>
             <th scope="col">Numero</th>
-            <th scope="col">EquipoId</th>
-            <th scope="col">PosicionId</th>
-
+            <th scope="col">Acciones</th>
         </tr>
     </thead>
     <tbody>
-        @foreach(var Jugador in Model.jugadores)
+        @foreach (var jugador in Model.jugadores)
         {
             <tr>
-                <th>@Jugador.Id</th>
-                <td>@Jugador.Nombre</td>
-		        <td>@Jugador.Numero</td>
-                <td>@Jugador.Equipo.Id</td>
-		        <td>@Jugador.Posicion.Id</td>
-                
-                          
-		       
+                <th>@jugador.Id</th>
+                <td>@jugador.Nombre</td>
+                <td>@jugador.Numero</td>
+                <td>
+                    <a class="btn btn-primary" asp-page="./Details" asp-route-id="@jugador.Id">
+                        <u>Detalle</u>
+                    </a>
+                </td>
+
             </tr>
 
         }
