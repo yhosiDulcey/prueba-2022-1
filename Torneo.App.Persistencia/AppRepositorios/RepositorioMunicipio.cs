@@ -24,6 +24,17 @@ namespace Torneo.App.Persistencia
             return municipioEncontrado;
         }
 
+        public Municipio UpdateMunicipio(Municipio municipio)
+        {
+            var municipioEncontrado = _dataContext.Municipios.Find(municipio.Id);
+            if (municipioEncontrado != null)
+            {
+                municipioEncontrado.Nombre = municipio.Nombre;
+                _dataContext.SaveChanges();
+            }
+            return municipioEncontrado;
+        }
+
 
     }
 }
